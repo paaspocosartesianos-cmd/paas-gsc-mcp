@@ -1,0 +1,8 @@
+{
+  "name": "paas-gsc",
+  "description": "Google Search Console integration for PAAS — pulls real ranking data (impressions, position, CTR, clicks) from search.google.com/search-console for use in /paas-quick-wins, /paas-priorities, and /paas-audit workflows.",
+  "author": {
+    "name": "PAAS Poços Artesianos",
+    "email": "paaspocosartesianos@gmail.com"
+  }
+}
