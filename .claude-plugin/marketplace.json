@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "paas-gsc-mcp",
+  "description": "PAAS Google Search Console MCP — pulls real ranking data from search.google.com/search-console for use in /paas-quick-wins, /paas-priorities, and /paas-audit workflows of the paas-seo-machine skill.",
+  "owner": {
+    "name": "PAAS Poços Artesianos",
+    "email": "paaspocosartesianos@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "paas-gsc",
+      "description": "Google Search Console MCP server for PAAS — list sites, query analytics, identify quick wins, inspect URLs",
+      "category": "marketing",
+      "source": ".",
+      "author": {
+        "name": "PAAS",
+        "email": "paaspocosartesianos@gmail.com"
+      }
+    }
+  ]
+}
