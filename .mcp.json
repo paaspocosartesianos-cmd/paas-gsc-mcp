@@ -1,0 +1,11 @@
+{
+  "paas-gsc": {
+    "command": "/bin/bash",
+    "args": [
+      "${CLAUDE_PLUGIN_ROOT}/run.sh"
+    ],
+    "env": {
+      "GSC_CREDENTIALS_PATH": "/Users/chertbobsin/Downloads/aerobic-arcade-245212-e8f04d21a982.json"
+    }
+  }
+}
